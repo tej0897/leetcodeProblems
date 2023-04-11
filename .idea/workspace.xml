@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="leetcode problem on April 7th">
-      <change afterPath="$PROJECT_DIR$/src/Easy/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/AddTwoNumbers.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="leetcode problem on April 10th">
+      <change afterPath="$PROJECT_DIR$/src/Easy/ValidParenthesesAlternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/RemovingStarsFromString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidParentheses">
+  <component name="RunManager" selected="Application.RemovingStarsFromString">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Medium.AddTwoNumbers" />
       <module name="leetcodeProblems" />
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.MergeTwoSortedLists" />
+    <configuration name="RemovingStarsFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.RemovingStarsFromString" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemovingStarsFromString" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.Learning" />
-        <item itemvalue="Application.MergeTwoSortedLists" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680878602281</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="leetcode problem on April 10th">
+      <created>1681141718751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681141718751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +183,7 @@
     <MESSAGE value="leet problems on April 5th" />
     <MESSAGE value="leetcode problems on April 6th" />
     <MESSAGE value="leetcode problem on April 7th" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode problem on April 7th" />
+    <MESSAGE value="leetcode problem on April 10th" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode problem on April 10th" />
   </component>
 </project>

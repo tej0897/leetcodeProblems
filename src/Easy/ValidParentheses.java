@@ -2,7 +2,6 @@ package Easy;
 
 public class ValidParentheses
 {
-
     public boolean checkValidString(String inputStr)
     {
         // computing the length of the input string
