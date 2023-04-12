@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="leetcode problem on April 10th">
-      <change afterPath="$PROJECT_DIR$/src/Easy/ValidParenthesesAlternate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/RemovingStarsFromString.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="Removing stars from the string program, yet to find logic for removing only left side.">
+      <change afterPath="$PROJECT_DIR$/src/Easy/RemoveElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Day_4_Branch" />
+        <entry key="$PROJECT_DIR$" value="Day_5_Branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemovingStarsFromString">
+  <component name="RunManager" selected="Application.RemoveElement">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Medium.AddTwoNumbers" />
       <module name="leetcodeProblems" />
@@ -59,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Learning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Learning" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.RemoveElement" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.RemovingStarsFromString" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.RomanToInteger" />
-        <item itemvalue="Application.Learning" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681141718751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Removing stars from the string program, yet to find logic for removing only left side.">
+      <created>1681220214235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681220214235</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +189,7 @@
     <MESSAGE value="leetcode problems on April 6th" />
     <MESSAGE value="leetcode problem on April 7th" />
     <MESSAGE value="leetcode problem on April 10th" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode problem on April 10th" />
+    <MESSAGE value="Removing stars from the string program, yet to find logic for removing only left side." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing stars from the string program, yet to find logic for removing only left side." />
   </component>
 </project>
