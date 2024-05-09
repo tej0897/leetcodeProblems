@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="VariableAfterPerformingOperations program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/ArrayFromPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/ShuffleTheArray.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="ArrayFromPermutation program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/WordsContainingCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,22 +62,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayFromPermutation">
+  <component name="RunManager" selected="Application.WordsContainingCharacter">
     <configuration name="ArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.ArrayFromPermutation" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.ConcatenationOfArray" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -129,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordsContainingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.WordsContainingCharacter" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordsContainingCharacter" />
         <item itemvalue="Application.ArrayFromPermutation" />
         <item itemvalue="Application.ShuffleTheArray" />
         <item itemvalue="Application.VariableAfterPerformingOperations" />
         <item itemvalue="Application.NumberOffGoodPairs" />
-        <item itemvalue="Application.ConcatenationOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715180275572</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ArrayFromPermutation program">
+      <created>1715228003946</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715228003946</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +248,7 @@
     <MESSAGE value="Concatenation Of Array program" />
     <MESSAGE value="NumberOffGoodPairs program" />
     <MESSAGE value="VariableAfterPerformingOperations program" />
-    <option name="LAST_COMMIT_MESSAGE" value="VariableAfterPerformingOperations program" />
+    <MESSAGE value="ArrayFromPermutation program" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayFromPermutation program" />
   </component>
 </project>
