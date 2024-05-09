@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="NumberOffGoodPairs program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/VariableAfterPerformingOperations.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="VariableAfterPerformingOperations program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/ArrayFromPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/ShuffleTheArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,9 +63,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VariableAfterPerformingOperations">
-    <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.ConcatenationOfArray" />
+  <component name="RunManager" selected="Application.ArrayFromPermutation">
+    <configuration name="ArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.ArrayFromPermutation" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.LongestCommonPrefix" />
+    <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.ConcatenationOfArray" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.RemoveElement" />
+    <configuration name="ShuffleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.ShuffleTheArray" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayFromPermutation" />
+        <item itemvalue="Application.ShuffleTheArray" />
         <item itemvalue="Application.VariableAfterPerformingOperations" />
         <item itemvalue="Application.NumberOffGoodPairs" />
         <item itemvalue="Application.ConcatenationOfArray" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.RemoveElement" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715092827536</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="VariableAfterPerformingOperations program">
+      <created>1715180275572</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715180275572</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +241,7 @@
     <MESSAGE value="Remove Element program" />
     <MESSAGE value="Concatenation Of Array program" />
     <MESSAGE value="NumberOffGoodPairs program" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberOffGoodPairs program" />
+    <MESSAGE value="VariableAfterPerformingOperations program" />
+    <option name="LAST_COMMIT_MESSAGE" value="VariableAfterPerformingOperations program" />
   </component>
 </project>
