@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="EmployeesWhoMetTheTarget program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/GreatestNumberOfCandies.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="PairsWhoseSumIsLessThanTarget program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/PairsWhoseSumIsLessThanTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +62,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GreatestNumberOfCandies">
-    <configuration name="ArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.ArrayFromPermutation" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PairsWhoseSumIsLessThanTarget">
     <configuration name="EmployeesWhoMetTheTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.EmployeesWhoMetTheTarget" />
       <module name="leetcodeProblems" />
@@ -91,6 +78,19 @@
     </configuration>
     <configuration name="GreatestNumberOfCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.GreatestNumberOfCandies" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairsWhoseSumIsLessThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.PairsWhoseSumIsLessThanTarget" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairsWhoseSumIsLessThanTarget" />
         <item itemvalue="Application.GreatestNumberOfCandies" />
         <item itemvalue="Application.EmployeesWhoMetTheTarget" />
         <item itemvalue="Application.RichestCustomerWealth" />
         <item itemvalue="Application.WordsContainingCharacter" />
-        <item itemvalue="Application.ArrayFromPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715249719060</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="GreatestNumberOfCandies program">
+      <created>1715362629173</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715362629173</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +280,8 @@
     <MESSAGE value="WordsContainingCharacter program" />
     <MESSAGE value="RichestCustomerWealth program" />
     <MESSAGE value="EmployeesWhoMetTheTarget program" />
-    <option name="LAST_COMMIT_MESSAGE" value="EmployeesWhoMetTheTarget program" />
+    <MESSAGE value="GreatestNumberOfCandies program" />
+    <MESSAGE value="PairsWhoseSumIsLessThanTarget program" />
+    <option name="LAST_COMMIT_MESSAGE" value="PairsWhoseSumIsLessThanTarget program" />
   </component>
 </project>
