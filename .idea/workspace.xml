@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="PairsWhoseSumIsLessThanTarget program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/PairsWhoseSumIsLessThanTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/NumbersAreSmallerThanCurrentNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PairsWhoseSumIsLessThanTarget">
+  <component name="RunManager" selected="Application.NumbersAreSmallerThanCurrentNumber">
     <configuration name="EmployeesWhoMetTheTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.EmployeesWhoMetTheTarget" />
       <module name="leetcodeProblems" />
@@ -78,6 +77,19 @@
     </configuration>
     <configuration name="GreatestNumberOfCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.GreatestNumberOfCandies" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbersAreSmallerThanCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.NumbersAreSmallerThanCurrentNumber" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -115,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordsContainingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.WordsContainingCharacter" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumbersAreSmallerThanCurrentNumber" />
         <item itemvalue="Application.PairsWhoseSumIsLessThanTarget" />
         <item itemvalue="Application.GreatestNumberOfCandies" />
         <item itemvalue="Application.EmployeesWhoMetTheTarget" />
         <item itemvalue="Application.RichestCustomerWealth" />
-        <item itemvalue="Application.WordsContainingCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715362629173</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="PairsWhoseSumIsLessThanTarget program">
+      <created>1715447042400</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715447042400</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
