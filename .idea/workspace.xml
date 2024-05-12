@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="PairsWhoseSumIsLessThanTarget program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/RunningSumOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="RunningSumOfArray program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/MaximumNumberWordsFoundSentences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RunningSumOfArray">
+  <component name="RunManager" selected="Application.MaximumNumberWordsFoundSentences">
     <configuration name="ArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.ArrayFromPermutation" />
       <module name="leetcodeProblems" />
@@ -76,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestNumberOfCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.GreatestNumberOfCandies" />
+    <configuration name="MaximumNumberWordsFoundSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.MaximumNumberWordsFoundSentences" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumNumberWordsFoundSentences" />
         <item itemvalue="Application.RunningSumOfArray" />
         <item itemvalue="Application.ArrayFromPermutation" />
         <item itemvalue="Application.NumbersAreSmallerThanCurrentNumber" />
         <item itemvalue="Application.PairsWhoseSumIsLessThanTarget" />
-        <item itemvalue="Application.GreatestNumberOfCandies" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715447042400</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="RunningSumOfArray program">
+      <created>1715514938492</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715514938492</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +295,7 @@
     <MESSAGE value="EmployeesWhoMetTheTarget program" />
     <MESSAGE value="GreatestNumberOfCandies program" />
     <MESSAGE value="PairsWhoseSumIsLessThanTarget program" />
-    <option name="LAST_COMMIT_MESSAGE" value="PairsWhoseSumIsLessThanTarget program" />
+    <MESSAGE value="RunningSumOfArray program" />
+    <option name="LAST_COMMIT_MESSAGE" value="RunningSumOfArray program" />
   </component>
 </project>
