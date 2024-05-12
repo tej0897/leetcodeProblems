@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="PairsWhoseSumIsLessThanTarget program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/NumbersAreSmallerThanCurrentNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/RunningSumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +62,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumbersAreSmallerThanCurrentNumber">
-    <configuration name="EmployeesWhoMetTheTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.EmployeesWhoMetTheTarget" />
+  <component name="RunManager" selected="Application.RunningSumOfArray">
+    <configuration name="ArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.ArrayFromPermutation" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.RichestCustomerWealth" />
+    <configuration name="RunningSumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.RunningSumOfArray" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunningSumOfArray" />
+        <item itemvalue="Application.ArrayFromPermutation" />
         <item itemvalue="Application.NumbersAreSmallerThanCurrentNumber" />
         <item itemvalue="Application.PairsWhoseSumIsLessThanTarget" />
         <item itemvalue="Application.GreatestNumberOfCandies" />
-        <item itemvalue="Application.EmployeesWhoMetTheTarget" />
-        <item itemvalue="Application.RichestCustomerWealth" />
       </list>
     </recent_temporary>
   </component>
