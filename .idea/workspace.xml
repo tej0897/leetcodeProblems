@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="MaximumNumberWordsFoundSentences program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/CheckIfTwoStringArraysAreEquivalent.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="CheckIfTwoStringArraysAreEquivalent program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/LeftAndRightSumDifferences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckIfTwoStringArraysAreEquivalent">
+  <component name="RunManager" selected="Application.LeftAndRightSumDifferences">
     <configuration name="ArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.ArrayFromPermutation" />
       <module name="leetcodeProblems" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumberWordsFoundSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.MaximumNumberWordsFoundSentences" />
+    <configuration name="LeftAndRightSumDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.LeftAndRightSumDifferences" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbersAreSmallerThanCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.NumbersAreSmallerThanCurrentNumber" />
+    <configuration name="MaximumNumberWordsFoundSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.MaximumNumberWordsFoundSentences" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeftAndRightSumDifferences" />
         <item itemvalue="Application.CheckIfTwoStringArraysAreEquivalent" />
         <item itemvalue="Application.MaximumNumberWordsFoundSentences" />
         <item itemvalue="Application.RunningSumOfArray" />
         <item itemvalue="Application.ArrayFromPermutation" />
-        <item itemvalue="Application.NumbersAreSmallerThanCurrentNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715521632579</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="CheckIfTwoStringArraysAreEquivalent program">
+      <created>1715522689532</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715522689532</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +312,7 @@
     <MESSAGE value="PairsWhoseSumIsLessThanTarget program" />
     <MESSAGE value="RunningSumOfArray program" />
     <MESSAGE value="MaximumNumberWordsFoundSentences program" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaximumNumberWordsFoundSentences program" />
+    <MESSAGE value="CheckIfTwoStringArraysAreEquivalent program" />
+    <option name="LAST_COMMIT_MESSAGE" value="CheckIfTwoStringArraysAreEquivalent program" />
   </component>
 </project>
