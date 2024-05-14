@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="NumbersAreSmallerThanCurrentNumber program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/CreateTargetArrayGivenOrder.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="CreateTargetArrayGivenOrder program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/MinimumNumberGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CreateTargetArrayGivenOrder">
+  <component name="RunManager" selected="Application.MinimumNumberGame">
     <configuration name="CheckIfTwoStringArraysAreEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.CheckIfTwoStringArraysAreEquivalent" />
       <module name="leetcodeProblems" />
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.RunningSumOfArray" />
+    <configuration name="MinimumNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.MinimumNumberGame" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumNumberGame" />
         <item itemvalue="Application.CreateTargetArrayGivenOrder" />
         <item itemvalue="Application.LeftAndRightSumDifferences" />
         <item itemvalue="Application.CheckIfTwoStringArraysAreEquivalent" />
         <item itemvalue="Application.MaximumNumberWordsFoundSentences" />
-        <item itemvalue="Application.RunningSumOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715522689532</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="CreateTargetArrayGivenOrder program">
+      <created>1715678108238</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678108238</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,6 +321,7 @@
     <MESSAGE value="RunningSumOfArray program" />
     <MESSAGE value="MaximumNumberWordsFoundSentences program" />
     <MESSAGE value="CheckIfTwoStringArraysAreEquivalent program" />
-    <option name="LAST_COMMIT_MESSAGE" value="CheckIfTwoStringArraysAreEquivalent program" />
+    <MESSAGE value="CreateTargetArrayGivenOrder program" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreateTargetArrayGivenOrder program" />
   </component>
 </project>
