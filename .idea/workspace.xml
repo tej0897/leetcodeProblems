@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="MinimumNumberGame program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/CountItemsMatchingRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/MinimumNumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/DifferenceBetweenElementSumAndDigitSumOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MinimumNumberGame">
+  <component name="RunManager" selected="Application.DifferenceBetweenElementSumAndDigitSumOfArray">
     <configuration name="CheckIfTwoStringArraysAreEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.CheckIfTwoStringArraysAreEquivalent" />
       <module name="leetcodeProblems" />
@@ -91,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftAndRightSumDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.LeftAndRightSumDifferences" />
+    <configuration name="DifferenceBetweenElementSumAndDigitSumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.DifferenceBetweenElementSumAndDigitSumOfArray" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumberWordsFoundSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.MaximumNumberWordsFoundSentences" />
+    <configuration name="LeftAndRightSumDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.LeftAndRightSumDifferences" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DifferenceBetweenElementSumAndDigitSumOfArray" />
         <item itemvalue="Application.MinimumNumberGame" />
         <item itemvalue="Application.CreateTargetArrayGivenOrder" />
         <item itemvalue="Application.LeftAndRightSumDifferences" />
         <item itemvalue="Application.CheckIfTwoStringArraysAreEquivalent" />
-        <item itemvalue="Application.MaximumNumberWordsFoundSentences" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715678813392</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="MinimumNumberGame program">
+      <created>1715788860628</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715788860628</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
