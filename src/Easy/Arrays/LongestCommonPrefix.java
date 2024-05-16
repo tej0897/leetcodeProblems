@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Arrays;
 
 //    First we will find the shortest string and its length.
 //    Secondly, we will take the first string and match it's each character

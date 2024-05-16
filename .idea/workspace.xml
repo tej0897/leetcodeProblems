@@ -4,9 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="MinimumNumberGame program">
-      <change afterPath="$PROJECT_DIR$/src/Easy/DifferenceBetweenElementSumAndDigitSumOfArray.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="DifferenceBetweenElementSumAndDigitSumOfArray program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/Strings/ScoreOfAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/ArrayFromPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/ArrayFromPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/CheckIfTwoStringArraysAreEquivalent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/CheckIfTwoStringArraysAreEquivalent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/ConcatenationOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/ConcatenationOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/CountItemsMatchingRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/CountItemsMatchingRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/CreateTargetArrayGivenOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/CreateTargetArrayGivenOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/DifferenceBetweenElementSumAndDigitSumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/DifferenceBetweenElementSumAndDigitSumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/EmployeesWhoMetTheTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/EmployeesWhoMetTheTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/GreatestNumberOfCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/GreatestNumberOfCandies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/LeftAndRightSumDifferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/LeftAndRightSumDifferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/MaximumNumberWordsFoundSentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/MaximumNumberWordsFoundSentences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/MinimumNumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/MinimumNumberGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/NumberOffGoodPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/NumberOffGoodPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/NumbersAreSmallerThanCurrentNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/NumbersAreSmallerThanCurrentNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/PairsWhoseSumIsLessThanTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/PairsWhoseSumIsLessThanTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/PalindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/RichestCustomerWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/RichestCustomerWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/RunningSumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/RunningSumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/ShuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/ShuffleTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/ValidParenthesesAlternate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/ValidParenthesesAlternate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/VariableAfterPerformingOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/VariableAfterPerformingOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/WordsContainingCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/WordsContainingCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,37 +80,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/2236516/Downloads/myCompanyAppAngularTejas2236516",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2236516/Downloads/myCompanyAppAngularTejas2236516&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DifferenceBetweenElementSumAndDigitSumOfArray">
-    <configuration name="CheckIfTwoStringArraysAreEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.CheckIfTwoStringArraysAreEquivalent" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.ScoreOfAString">
     <configuration name="CreateTargetArrayGivenOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.CreateTargetArrayGivenOrder" />
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.CreateTargetArrayGivenOrder" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Easy.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="DifferenceBetweenElementSumAndDigitSumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.DifferenceBetweenElementSumAndDigitSumOfArray" />
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.DifferenceBetweenElementSumAndDigitSumOfArray" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Easy.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="LeftAndRightSumDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.LeftAndRightSumDifferences" />
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.LeftAndRightSumDifferences" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Easy.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +132,24 @@
       </method>
     </configuration>
     <configuration name="MinimumNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.MinimumNumberGame" />
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.MinimumNumberGame" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Easy.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScoreOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Strings.ScoreOfAString" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScoreOfAString" />
         <item itemvalue="Application.DifferenceBetweenElementSumAndDigitSumOfArray" />
         <item itemvalue="Application.MinimumNumberGame" />
         <item itemvalue="Application.CreateTargetArrayGivenOrder" />
         <item itemvalue="Application.LeftAndRightSumDifferences" />
-        <item itemvalue="Application.CheckIfTwoStringArraysAreEquivalent" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715788860628</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="DifferenceBetweenElementSumAndDigitSumOfArray program">
+      <created>1715789526417</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715789526417</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +372,7 @@
     <MESSAGE value="CheckIfTwoStringArraysAreEquivalent program" />
     <MESSAGE value="CreateTargetArrayGivenOrder program" />
     <MESSAGE value="MinimumNumberGame program" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinimumNumberGame program" />
+    <MESSAGE value="DifferenceBetweenElementSumAndDigitSumOfArray program" />
+    <option name="LAST_COMMIT_MESSAGE" value="DifferenceBetweenElementSumAndDigitSumOfArray program" />
   </component>
 </project>
