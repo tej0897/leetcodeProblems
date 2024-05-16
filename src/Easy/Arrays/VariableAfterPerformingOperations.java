@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Arrays;
 
 public class VariableAfterPerformingOperations {
     public static void main(String[] args) {
