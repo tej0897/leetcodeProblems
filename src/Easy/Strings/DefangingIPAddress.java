@@ -1,18 +1,30 @@
 package Easy.Strings;
 
+import java.util.List;
+
 public class DefangingIPAddress {
     public static String defangIPaddr(String address) {
 
-        StringBuilder temp = new StringBuilder(address);
-        for (int i=0; i<temp.length(); i++){
-            if (temp.charAt(i) == '.'){
-                temp.replace(i, i, "[.]");
+
+//        return address.replaceAll("\\.", "[.]");
+
+        // solution 2:
+
+        if (address == null || address.isEmpty()) {
+            return "";
+        }
+        var sb = new StringBuilder();
+        for (char ch : address.toCharArray()) {
+            if (ch == '.') {
+                sb.append("[.]");
+            } else {
+                sb.append(ch);
             }
         }
-
-        return temp.toString();
-
+        return sb.toString();
     }
+
+
 
     public static void main(String[] args) {
         String address = "1.1.1.1";
