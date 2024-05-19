@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="interview programs">
-      <change afterPath="$PROJECT_DIR$/src/Easy/Arrays/ValidParentheses2.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="ValidParentheses2 leetcode program">
+      <change afterPath="$PROJECT_DIR$/src/Easy/Arrays/FindIndexOfTheFirstOccurrenceInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716105809639</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="ValidParentheses2 leetcode program">
+      <created>1716108692432</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716108692432</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,7 +380,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leetcode problems on April 6th" />
     <MESSAGE value="leetcode problem on April 7th" />
     <MESSAGE value="leetcode problem on April 10th" />
     <MESSAGE value="Removing stars from the string program, yet to find logic for removing only left side." />
@@ -398,6 +404,7 @@
     <MESSAGE value="test programs" />
     <MESSAGE value="Defanging IP Address program" />
     <MESSAGE value="interview programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="interview programs" />
+    <MESSAGE value="ValidParentheses2 leetcode program" />
+    <option name="LAST_COMMIT_MESSAGE" value="ValidParentheses2 leetcode program" />
   </component>
 </project>
