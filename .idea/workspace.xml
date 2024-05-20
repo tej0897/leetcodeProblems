@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="interview programs">
-      <change afterPath="$PROJECT_DIR$/src/Easy/Arrays/ValidParentheses2.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="FindIndexOfTheFirstOccurrenceInString leetcode program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/Arrays/FindIndexOfTheFirstOccurrenceInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/FindIndexOfTheFirstOccurrenceInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/Arrays/ShuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Arrays/ShuffleTheArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidParentheses2">
+  <component name="RunManager" selected="Application.ShuffleTheArray">
+    <configuration name="FindIndexOfTheFirstOccurrenceInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.FindIndexOfTheFirstOccurrenceInString" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FrequencyOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview_programs.FrequencyOfString" />
       <module name="leetcodeProblems" />
@@ -77,25 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintInAscOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_programs.PrintInAscOrder" />
+    <configuration name="ShuffleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.ShuffleTheArray" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintInDescOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_programs.PrintInDescOrder" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview_programs.*" />
+          <option name="PATTERN" value="Easy.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShuffleTheArray" />
+        <item itemvalue="Application.FindIndexOfTheFirstOccurrenceInString" />
         <item itemvalue="Application.ValidParentheses2" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.FrequencyOfString" />
-        <item itemvalue="Application.PrintInDescOrder" />
-        <item itemvalue="Application.PrintInAscOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +359,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716105809639</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="ValidParentheses2 leetcode program">
+      <created>1716108692432</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716108692432</updated>
+    </task>
+    <task id="LOCAL-00032" summary="FindIndexOfTheFirstOccurrenceInString leetcode program">
+      <created>1716109184119</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1716109184119</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,8 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leetcode problems on April 6th" />
-    <MESSAGE value="leetcode problem on April 7th" />
     <MESSAGE value="leetcode problem on April 10th" />
     <MESSAGE value="Removing stars from the string program, yet to find logic for removing only left side." />
     <MESSAGE value="Remove Element program" />
@@ -398,6 +411,8 @@
     <MESSAGE value="test programs" />
     <MESSAGE value="Defanging IP Address program" />
     <MESSAGE value="interview programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="interview programs" />
+    <MESSAGE value="ValidParentheses2 leetcode program" />
+    <MESSAGE value="FindIndexOfTheFirstOccurrenceInString leetcode program" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindIndexOfTheFirstOccurrenceInString leetcode program" />
   </component>
 </project>

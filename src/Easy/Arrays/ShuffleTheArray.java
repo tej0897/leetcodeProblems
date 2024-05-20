@@ -1,32 +1,21 @@
 package Easy.Arrays;
 
 public class ShuffleTheArray {
-    public static void main(String[] args) {
 
-        /**
-         * 0,2,4,   1,3,5
-         * 1,2,3,   4,5,6
-         * 0,1,2,   3,4,5
-         *
-         * half-point = 3
-         *
-         *
-         */
-
-
-        int [] nums = {2,5,1,3,4,7};
-        int [] array1 = new int[nums.length/2];
-        int [] array2 = new int[nums.length/2];
-
-
-
-
-
-        for (int j : array1){
-            System.out.println(j);
+    public static int[] shuffle(int[] nums, int n) {
+        int [] output = new int[n*2];
+        for (int i = 0; i < n; i++){
+            output[2*i] = nums[i];
+            output[2*i+1] = nums[n+i];
         }
-        for (int j : array2){
-            System.out.println(j);
+        return output;
+    }
+    public static void main(String[] args) {
+        int [] nums = {2,5,1,3,4,7};
+        int n=3;
+        int [] output = shuffle(nums, n);
+        for (int i : output){
+            System.out.println(i);
         }
     }
 }
