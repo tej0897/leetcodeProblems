@@ -9,14 +9,14 @@ public class FindIndexOfTheFirstOccurrenceInString {
 
         for (int i = 0; i <= haystack.length() - needle.length(); i++) {
 
-            if (haystack.substring(i, i + needle.length()).equals(needle)) {
+            if (haystack.startsWith(needle, i)) {
                 return i;
             }
         }
         return -1;
     }
     public static void main(String[] args) {
-        String haystack = "sadbutsad";
+        String haystack = "wsadbutsad";
         String needle = "sad";
         System.out.println(strStr(haystack, needle));
     }
