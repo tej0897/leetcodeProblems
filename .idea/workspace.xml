@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="MinimumChangesToMakeAlternatingBinaryString program commit">
-      <change afterPath="$PROJECT_DIR$/src/Medium/PalindromePartition.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="leetcode programs commit">
+      <change afterPath="$PROJECT_DIR$/src/Easy/Arrays/ShuffleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/NumberOfBeautifulSubsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,20 +64,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PalindromePartition">
-    <configuration name="ArraySubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium.ArraySubsets" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberOfBeautifulSubsets">
     <configuration name="FindIndexOfTheFirstOccurrenceInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.Arrays.FindIndexOfTheFirstOccurrenceInString" />
       <module name="leetcodeProblems" />
@@ -90,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumChangesToMakeAlternatingBinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Strings.MinimumChangesToMakeAlternatingBinaryString" />
+    <configuration name="NumberOfBeautifulSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.NumberOfBeautifulSubsets" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.Strings.*" />
+          <option name="PATTERN" value="Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromePartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium.PalindromePartition" />
+    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.ShuffleString" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Medium.*" />
+          <option name="PATTERN" value="Easy.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidParentheses2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.ValidParentheses2" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PalindromePartition" />
-        <item itemvalue="Application.MinimumChangesToMakeAlternatingBinaryString" />
-        <item itemvalue="Application.ArraySubsets" />
+        <item itemvalue="Application.NumberOfBeautifulSubsets" />
+        <item itemvalue="Application.ShuffleString" />
         <item itemvalue="Application.ShuffleTheArray" />
         <item itemvalue="Application.FindIndexOfTheFirstOccurrenceInString" />
+        <item itemvalue="Application.ValidParentheses2" />
       </list>
     </recent_temporary>
   </component>
@@ -372,21 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716109184119</updated>
     </task>
-    <task id="LOCAL-00033" summary="ArraySubsets program commit">
-      <created>1716276627590</created>
+    <task id="LOCAL-00033" summary="leetcode programs commit">
+      <created>1716204825520</created>
       <option name="number" value="00033" />
       <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1716276627590</updated>
+      <updated>1716204825520</updated>
     </task>
-    <task id="LOCAL-00034" summary="MinimumChangesToMakeAlternatingBinaryString program commit">
-      <created>1716281189850</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1716281189850</updated>
-    </task>
-    <option name="localTasksCounter" value="35" />
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,6 +395,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removing stars from the string program, yet to find logic for removing only left side." />
     <MESSAGE value="Remove Element program" />
     <MESSAGE value="Concatenation Of Array program" />
     <MESSAGE value="NumberOffGoodPairs program" />
@@ -424,8 +419,7 @@
     <MESSAGE value="interview programs" />
     <MESSAGE value="ValidParentheses2 leetcode program" />
     <MESSAGE value="FindIndexOfTheFirstOccurrenceInString leetcode program" />
-    <MESSAGE value="ArraySubsets program commit" />
-    <MESSAGE value="MinimumChangesToMakeAlternatingBinaryString program commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinimumChangesToMakeAlternatingBinaryString program commit" />
+    <MESSAGE value="leetcode programs commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode programs commit" />
   </component>
 </project>
