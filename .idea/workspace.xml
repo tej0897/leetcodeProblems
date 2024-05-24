@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="leetcode programs commit">
-      <change afterPath="$PROJECT_DIR$/src/Easy/Arrays/ShuffleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/NumberOfBeautifulSubsets.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="NumberOfBeautifulSubsets programs commit">
+      <change afterPath="$PROJECT_DIR$/src/Hard/MaximumScoreWordsFormedByLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -380,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716204825520</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="NumberOfBeautifulSubsets programs commit">
+      <created>1716455580696</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1716455580696</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,7 +401,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Removing stars from the string program, yet to find logic for removing only left side." />
     <MESSAGE value="Remove Element program" />
     <MESSAGE value="Concatenation Of Array program" />
     <MESSAGE value="NumberOffGoodPairs program" />
@@ -420,6 +425,7 @@
     <MESSAGE value="ValidParentheses2 leetcode program" />
     <MESSAGE value="FindIndexOfTheFirstOccurrenceInString leetcode program" />
     <MESSAGE value="leetcode programs commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode programs commit" />
+    <MESSAGE value="NumberOfBeautifulSubsets programs commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberOfBeautifulSubsets programs commit" />
   </component>
 </project>
