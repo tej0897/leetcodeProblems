@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="NumberOfBeautifulSubsets programs commit">
-      <change afterPath="$PROJECT_DIR$/src/Hard/MaximumScoreWordsFormedByLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="MaximumScoreWordsFormedByLetters commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -386,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716455580696</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="MaximumScoreWordsFormedByLetters commit">
+      <created>1716560634534</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1716560634535</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remove Element program" />
     <MESSAGE value="Concatenation Of Array program" />
     <MESSAGE value="NumberOffGoodPairs program" />
     <MESSAGE value="VariableAfterPerformingOperations program" />
@@ -426,6 +429,7 @@
     <MESSAGE value="FindIndexOfTheFirstOccurrenceInString leetcode program" />
     <MESSAGE value="leetcode programs commit" />
     <MESSAGE value="NumberOfBeautifulSubsets programs commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberOfBeautifulSubsets programs commit" />
+    <MESSAGE value="MaximumScoreWordsFormedByLetters commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaximumScoreWordsFormedByLetters commit" />
   </component>
 </project>
