@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="WordBreakII commit">
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="AttendanceRecord commit">
+      <change afterPath="$PROJECT_DIR$/src/Medium/TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,19 +55,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/2236516/Downloads/myCompanyAppAngularTejas2236516",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2236516/Downloads/myCompanyAppAngularTejas2236516&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.NumberOfBeautifulSubsets">
+}</component>
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="FindIndexOfTheFirstOccurrenceInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.Arrays.FindIndexOfTheFirstOccurrenceInString" />
       <module name="leetcodeProblems" />
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParentheses2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.ValidParentheses2" />
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.TicTacToe" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.Arrays.*" />
+          <option name="PATTERN" value="Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.NumberOfBeautifulSubsets" />
         <item itemvalue="Application.ShuffleString" />
         <item itemvalue="Application.ShuffleTheArray" />
         <item itemvalue="Application.FindIndexOfTheFirstOccurrenceInString" />
-        <item itemvalue="Application.ValidParentheses2" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716630280015</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="AttendanceRecord commit">
+      <created>1716724756512</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1716724756512</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NumberOffGoodPairs program" />
     <MESSAGE value="VariableAfterPerformingOperations program" />
     <MESSAGE value="ArrayFromPermutation program" />
     <MESSAGE value="WordsContainingCharacter program" />
@@ -443,6 +450,7 @@
     <MESSAGE value="NumberOfBeautifulSubsets programs commit" />
     <MESSAGE value="MaximumScoreWordsFormedByLetters commit" />
     <MESSAGE value="WordBreakII commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="WordBreakII commit" />
+    <MESSAGE value="AttendanceRecord commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="AttendanceRecord commit" />
   </component>
 </project>
