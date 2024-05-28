@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="TicTacToe commit">
-      <change afterPath="$PROJECT_DIR$/src/Easy/Arrays/SpecialArrayWithXElementsGreaterThanOrEqualX.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="PalindromePartition program commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,13 +59,12 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/2236516/Downloads/myCompanyAppAngularTejas2236516&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SpecialArrayWithXElementsGreaterThanOrEqualX">
-    <configuration name="NumberOfBeautifulSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium.NumberOfBeautifulSubsets" />
+  <component name="RunManager" selected="Application.PalindromePartition">
+    <configuration name="ArraySubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.ArraySubsets" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.ShuffleString" />
+    <configuration name="FindIndexOfTheFirstOccurrenceInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.FindIndexOfTheFirstOccurrenceInString" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Easy.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumChangesToMakeAlternatingBinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Strings.MinimumChangesToMakeAlternatingBinaryString" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromePartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.PalindromePartition" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,39 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialArrayWithXElementsGreaterThanOrEqualX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.SpecialArrayWithXElementsGreaterThanOrEqualX" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium.TicTacToe" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpecialArrayWithXElementsGreaterThanOrEqualX" />
-        <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.NumberOfBeautifulSubsets" />
-        <item itemvalue="Application.ShuffleString" />
+        <item itemvalue="Application.PalindromePartition" />
+        <item itemvalue="Application.MinimumChangesToMakeAlternatingBinaryString" />
+        <item itemvalue="Application.ArraySubsets" />
         <item itemvalue="Application.ShuffleTheArray" />
+        <item itemvalue="Application.FindIndexOfTheFirstOccurrenceInString" />
       </list>
     </recent_temporary>
   </component>
@@ -376,49 +371,28 @@
       <option name="project" value="LOCAL" />
       <updated>1716109184119</updated>
     </task>
-    <task id="LOCAL-00033" summary="leetcode programs commit">
-      <created>1716204825520</created>
+    <task id="LOCAL-00033" summary="ArraySubsets program commit">
+      <created>1716276627590</created>
       <option name="number" value="00033" />
       <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1716204825520</updated>
+      <updated>1716276627590</updated>
     </task>
-    <task id="LOCAL-00034" summary="NumberOfBeautifulSubsets programs commit">
-      <created>1716455580696</created>
+    <task id="LOCAL-00034" summary="MinimumChangesToMakeAlternatingBinaryString program commit">
+      <created>1716281189850</created>
       <option name="number" value="00034" />
       <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1716455580696</updated>
+      <updated>1716281189850</updated>
     </task>
-    <task id="LOCAL-00035" summary="MaximumScoreWordsFormedByLetters commit">
-      <created>1716560634534</created>
+    <task id="LOCAL-00035" summary="PalindromePartition program commit">
+      <created>1716355020658</created>
       <option name="number" value="00035" />
       <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1716560634535</updated>
+      <updated>1716355020658</updated>
     </task>
-    <task id="LOCAL-00036" summary="WordBreakII commit">
-      <created>1716630280015</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1716630280015</updated>
-    </task>
-    <task id="LOCAL-00037" summary="AttendanceRecord commit">
-      <created>1716724756512</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1716724756512</updated>
-    </task>
-    <task id="LOCAL-00038" summary="TicTacToe commit">
-      <created>1716781482002</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1716781482002</updated>
-    </task>
-    <option name="localTasksCounter" value="39" />
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,6 +407,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Concatenation Of Array program" />
+    <MESSAGE value="NumberOffGoodPairs program" />
+    <MESSAGE value="VariableAfterPerformingOperations program" />
     <MESSAGE value="ArrayFromPermutation program" />
     <MESSAGE value="WordsContainingCharacter program" />
     <MESSAGE value="RichestCustomerWealth program" />
@@ -452,12 +429,9 @@
     <MESSAGE value="interview programs" />
     <MESSAGE value="ValidParentheses2 leetcode program" />
     <MESSAGE value="FindIndexOfTheFirstOccurrenceInString leetcode program" />
-    <MESSAGE value="leetcode programs commit" />
-    <MESSAGE value="NumberOfBeautifulSubsets programs commit" />
-    <MESSAGE value="MaximumScoreWordsFormedByLetters commit" />
-    <MESSAGE value="WordBreakII commit" />
-    <MESSAGE value="AttendanceRecord commit" />
-    <MESSAGE value="TicTacToe commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="TicTacToe commit" />
+    <MESSAGE value="ArraySubsets program commit" />
+    <MESSAGE value="MinimumChangesToMakeAlternatingBinaryString program commit" />
+    <MESSAGE value="PalindromePartition program commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="PalindromePartition program commit" />
   </component>
 </project>
