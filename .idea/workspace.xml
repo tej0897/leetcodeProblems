@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="SpecialArrayWithXElementsGreaterThanOrEqualX commit">
-      <change afterPath="$PROJECT_DIR$/src/Medium/NumberOfStepsToReduceNumberInBinaryRepresentationToOne.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="NumberOfStepsToReduceNumberInBinaryRepresentationToOne commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -425,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716813025404</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="NumberOfStepsToReduceNumberInBinaryRepresentationToOne commit">
+      <created>1716998625742</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1716998625742</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,7 +446,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="WordsContainingCharacter program" />
     <MESSAGE value="RichestCustomerWealth program" />
     <MESSAGE value="EmployeesWhoMetTheTarget program" />
     <MESSAGE value="GreatestNumberOfCandies program" />
@@ -465,6 +470,7 @@
     <MESSAGE value="AttendanceRecord commit" />
     <MESSAGE value="TicTacToe commit" />
     <MESSAGE value="SpecialArrayWithXElementsGreaterThanOrEqualX commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpecialArrayWithXElementsGreaterThanOrEqualX commit" />
+    <MESSAGE value="NumberOfStepsToReduceNumberInBinaryRepresentationToOne commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberOfStepsToReduceNumberInBinaryRepresentationToOne commit" />
   </component>
 </project>
