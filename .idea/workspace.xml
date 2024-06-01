@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="CountTriplets commit">
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="SingleNumberIII commit">
+      <change afterPath="$PROJECT_DIR$/src/interview_programs/FrequencyOfInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +67,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberOfStepsToReduceNumberInBinaryRepresentationToOne">
-    <configuration name="NumberOfBeautifulSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium.NumberOfBeautifulSubsets" />
+  <component name="RunManager" selected="Application.MeetTargetFromArrayPair">
+    <configuration name="FrequencyOfInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_programs.FrequencyOfInt" />
       <module name="leetcodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Medium.*" />
+          <option name="PATTERN" value="interview_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetTargetFromArrayPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_programs.MeetTargetFromArrayPair" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,19 +100,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.ShuffleString" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MeetTargetFromArrayPair" />
+        <item itemvalue="Application.FrequencyOfInt" />
         <item itemvalue="Application.NumberOfStepsToReduceNumberInBinaryRepresentationToOne" />
         <item itemvalue="Application.SpecialArrayWithXElementsGreaterThanOrEqualX" />
         <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.NumberOfBeautifulSubsets" />
-        <item itemvalue="Application.ShuffleString" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717068045631</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="SingleNumberIII commit">
+      <created>1717169133344</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1717169133344</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="EmployeesWhoMetTheTarget program" />
     <MESSAGE value="GreatestNumberOfCandies program" />
     <MESSAGE value="PairsWhoseSumIsLessThanTarget program" />
     <MESSAGE value="RunningSumOfArray program" />
@@ -478,6 +485,7 @@
     <MESSAGE value="SpecialArrayWithXElementsGreaterThanOrEqualX commit" />
     <MESSAGE value="NumberOfStepsToReduceNumberInBinaryRepresentationToOne commit" />
     <MESSAGE value="CountTriplets commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountTriplets commit" />
+    <MESSAGE value="SingleNumberIII commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SingleNumberIII commit" />
   </component>
 </project>
