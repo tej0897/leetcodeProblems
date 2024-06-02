@@ -1,6 +1,6 @@
 package interview_programs;
 
-import java.util.HashSet;
+import java.util.ArrayList;
 
 public class MeetTargetFromArrayPair {
     public static void main(String[] args) {
@@ -10,13 +10,23 @@ public class MeetTargetFromArrayPair {
     }
 
     private static void printPairs(int[] intArray, int target) {
-        HashSet<Integer> hashSet = new HashSet<>();
+//        HashSet<Integer> hashSet = new HashSet<>();
+//        for (int num : intArray){
+//            int compliment = target - num;
+//            if (hashSet.contains(compliment)){
+//                System.out.println("("+num+", "+compliment+")");
+//            }
+//            hashSet.add(num);
+//        }
+
+        ArrayList<Integer> integers = new ArrayList<>();
         for (int num : intArray){
             int compliment = target - num;
-            if (hashSet.contains(compliment)){
+            if (integers.contains(compliment)){
                 System.out.println("("+num+", "+compliment+")");
             }
-            hashSet.add(num);
+            integers.add(num);
         }
+
     }
 }
