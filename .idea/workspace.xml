@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="interview questions commit">
-      <change afterPath="$PROJECT_DIR$/src/Easy/Strings/ReverseString.java" afterDir="false" />
+    <list default="true" id="ababa47a-359d-4385-b6f3-39a1718d3337" name="Changes" comment="reverse string of char program commit">
+      <change afterPath="$PROJECT_DIR$/src/Medium/AppendCharactersToStringToMakeSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview_programs/MeetTargetFromArrayPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/MeetTargetFromArrayPair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseString">
+  <component name="RunManager" selected="Application.AppendCharactersToStringToMakeSubsequence">
+    <configuration name="AppendCharactersToStringToMakeSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.AppendCharactersToStringToMakeSubsequence" />
+      <module name="leetcodeProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FrequencyOfInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interview_programs.FrequencyOfInt" />
       <module name="leetcodeProblems" />
@@ -121,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialArrayWithXElementsGreaterThanOrEqualX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Arrays.SpecialArrayWithXElementsGreaterThanOrEqualX" />
-      <module name="leetcodeProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppendCharactersToStringToMakeSubsequence" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.MeetTargetFromArrayPair" />
         <item itemvalue="Application.FrequencyOfInt" />
         <item itemvalue="Application.NumberOfStepsToReduceNumberInBinaryRepresentationToOne" />
-        <item itemvalue="Application.SpecialArrayWithXElementsGreaterThanOrEqualX" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717248470016</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="reverse string of char program commit">
+      <created>1717338086534</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1717338086534</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PairsWhoseSumIsLessThanTarget program" />
     <MESSAGE value="RunningSumOfArray program" />
     <MESSAGE value="MaximumNumberWordsFoundSentences program" />
     <MESSAGE value="CheckIfTwoStringArraysAreEquivalent program" />
@@ -494,6 +499,7 @@
     <MESSAGE value="CountTriplets commit" />
     <MESSAGE value="SingleNumberIII commit" />
     <MESSAGE value="interview questions commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="interview questions commit" />
+    <MESSAGE value="reverse string of char program commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse string of char program commit" />
   </component>
 </project>
